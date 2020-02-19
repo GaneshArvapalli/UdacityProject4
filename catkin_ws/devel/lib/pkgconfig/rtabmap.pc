@@ -1,0 +1,8 @@
+prefix=/home/workspace/UdacityProject4/catkin_ws/devel
+
+Name: rtabmap
+Description: Description of rtabmap
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/workspace/UdacityProject4/catkin_ws/devel/lib 
+Requires: 
